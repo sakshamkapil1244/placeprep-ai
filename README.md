@@ -3,7 +3,7 @@
 A sleek, fully functional, clickable web prototype of a placement preparation app designed specifically for final-year Computer Science students. 
 
 ## 🔗 Live Demo
-Experience the prototype here: **[https://placeprep-ai-git-main-sakshamkapil123-1239.vercel.app/]** *(Example:https://placeprep-ai-git-main-sakshamkapil123-1239.vercel.app/)*
+Experience the prototype here: **[https://placeprep-ai-git-main-sakshamkapil123-1239.vercel.app/]**
 
 ## 📖 Overview
 PlacePrep AI helps students combat placement anxiety by providing a centralized dashboard for their interview preparation. The app simulates a mobile interface where users can track their upcoming interview countdown, monitor their daily DSA goals, and take AI-simulated mock interviews with instant feedback. 
